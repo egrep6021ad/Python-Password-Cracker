@@ -1,4 +1,5 @@
 import hashlib
+
 while(True):   
 
   # Main password cracker  
